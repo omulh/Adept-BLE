@@ -1,0 +1,7 @@
+# KiCad backup files
+Hardware/**/*.bak
+Hardware/Adept_BLE-backups
+
+# KiCad local files
+Hardware/*.kicad_prl
+Hardware/fp-info-cache
