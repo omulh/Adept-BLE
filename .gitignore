@@ -1,5 +1,6 @@
 # KiCad backup files
 Hardware/**/*.bak
+Hardware/**/*.lck
 Hardware/Adept_BLE-backups
 
 # KiCad local files
