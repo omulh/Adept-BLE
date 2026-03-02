@@ -179,7 +179,7 @@
 		(uuid "0b3db524-5542-4030-9311-0efc3d67d35b")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/libs/3d/C_0805_2012Metric.step"
+	(model "${KIPRJMOD}/libs/3d/C_0805.step"
 		(offset
 			(xyz 0 0 0)
 		)
