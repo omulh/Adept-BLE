@@ -5355,11 +5355,11 @@
 	(footprint "Adept_BLE_footprints:Pad_3x2mm"
 		(layer "B.Cu")
 		(uuid "44f0bda2-3173-4492-afd3-2de1fbe1d3ad")
-		(at 119 87.648 180)
+		(at 151 82.5 -90)
 		(descr "Pad 3x2mm")
 		(tags "pad SMD")
 		(property "Reference" "J2"
-			(at 0 2.5 0)
+			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "66c2e463-6ca3-43c8-96a6-14d4c33565fe")
@@ -5372,7 +5372,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pad"
-			(at -16 11 0)
+			(at -16 11 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5386,7 +5386,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5400,7 +5400,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5414,7 +5414,7 @@
 			)
 		)
 		(property "MFR-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5428,7 +5428,7 @@
 			)
 		)
 		(property "DST-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5447,7 +5447,7 @@
 		(sheetfile "nrf52840.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
+			(at 0 -2.5 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(uuid "6a98cf7e-0718-4c42-aa8c-4652b5ab12e8")
@@ -5460,7 +5460,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 0 0 180)
+			(at 0 0 270)
 			(size 3 2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.15)
@@ -5473,11 +5473,11 @@
 	(footprint "Adept_BLE_footprints:Pad_3x2mm"
 		(layer "B.Cu")
 		(uuid "6ba27a34-c579-4e04-be83-de5f9c19a060")
-		(at 119 90.648 180)
+		(at 154 82.5 -90)
 		(descr "Pad 3x2mm")
 		(tags "pad SMD")
 		(property "Reference" "J1"
-			(at 0 2.5 0)
+			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "d0dbe00e-03ee-489e-a12b-1c0e5cc9fc33")
@@ -5490,7 +5490,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pad"
-			(at -16 11 0)
+			(at -16 11 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5504,7 +5504,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5518,7 +5518,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5532,7 +5532,7 @@
 			)
 		)
 		(property "MFR-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5546,7 +5546,7 @@
 			)
 		)
 		(property "DST-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -5565,7 +5565,7 @@
 		(sheetfile "nrf52840.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
+			(at 0 -2.5 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(uuid "59440d07-881a-409f-958e-ed3f0640c7ab")
@@ -5578,7 +5578,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 0 0 180)
+			(at 0 0 270)
 			(size 3 2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.15)
@@ -5998,11 +5998,11 @@
 	(footprint "Adept_BLE_footprints:Pad_3x2mm"
 		(layer "B.Cu")
 		(uuid "7ed128b1-23b6-46a3-b29a-1165453c108b")
-		(at 119 84.648 180)
+		(at 160.5 82.5 -90)
 		(descr "Pad 3x2mm")
 		(tags "pad SMD")
 		(property "Reference" "J6"
-			(at 0 2.5 0)
+			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "a193616f-2be7-41b6-8727-25d52dc5cd64")
@@ -6015,7 +6015,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pad"
-			(at -16 11 0)
+			(at -16 11 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6029,7 +6029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6043,7 +6043,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6057,7 +6057,7 @@
 			)
 		)
 		(property "MFR-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6071,7 +6071,7 @@
 			)
 		)
 		(property "DST-PN" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -6090,7 +6090,7 @@
 		(sheetfile "nrf52840.kicad_sch")
 		(attr through_hole)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
+			(at 0 -2.5 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(uuid "19bfcfe7-c90e-42fb-93e8-85a115c14b30")
@@ -6103,7 +6103,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at 0 0 180)
+			(at 0 0 270)
 			(size 3 2)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.15)
@@ -6774,7 +6774,7 @@
 	(footprint "Adept_BLE_footprints:S2B-PH-K"
 		(layer "B.Cu")
 		(uuid "e6f1d695-8bd1-49e7-8f6a-a82e3cebed01")
-		(at 118.5 98.05 180)
+		(at 139 94.55 180)
 		(descr "side-entry, 2mm pitch, JST PH series connector")
 		(tags "connector JST PH horizontal")
 		(property "Reference" "J3"
@@ -7306,6 +7306,39 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 76.25 151.5)
+		(end 96.75 189.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "65bba196-21bc-4818-bc8e-2aea8fbea6a7")
+	)
+	(gr_rect
+		(start 51.25 147.5)
+		(end 71.75 189.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "aa3df980-3ba6-4245-82c8-fc36678bd883")
+	)
+	(gr_rect
+		(start 24.25 139.5)
+		(end 46.75 189.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "c3082bf9-9b91-4615-bda5-0f2f8f6fcd18")
+	)
 	(gr_line
 		(start 127.8 125)
 		(end 184.2 125)
@@ -7491,6 +7524,54 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "fcf1d917-df18-4416-a3cb-c6c0abe427fc")
+	)
+	(gr_text "620mAh\n20.5 x 42 x 8.8 mm"
+		(at 51.25 189.5 0)
+		(layer "Dwgs.User")
+		(uuid "e48cc0a2-c5b5-4365-95af-007ca08aa3ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "360mAh\n20.5 x 38 x 5.8 mm"
+		(at 76.25 189.5 0)
+		(layer "Dwgs.User")
+		(uuid "ea12f3ae-f3be-4bac-96f9-d5b7e7a5f1f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "620mAh\n22.5 x 50 x 6.3 mm"
+		(at 24.25 189.5 0)
+		(layer "Dwgs.User")
+		(uuid "f12a983a-8df9-4b38-a061-6cac962805ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(group ""
+		(uuid "2c2e2d4e-329c-4730-a81d-a21f30b67f5c")
+		(members "aa3df980-3ba6-4245-82c8-fc36678bd883" "e48cc0a2-c5b5-4365-95af-007ca08aa3ef")
+	)
+	(group ""
+		(uuid "9702d1c7-33f5-443b-8205-89888830db28")
+		(members "c3082bf9-9b91-4615-bda5-0f2f8f6fcd18" "f12a983a-8df9-4b38-a061-6cac962805ff")
+	)
+	(group ""
+		(uuid "ff9fc6f5-d66e-42e1-8948-761b2f5275ce")
+		(members "65bba196-21bc-4818-bc8e-2aea8fbea6a7" "ea12f3ae-f3be-4bac-96f9-d5b7e7a5f1f1")
 	)
 	(embedded_fonts no)
 )
