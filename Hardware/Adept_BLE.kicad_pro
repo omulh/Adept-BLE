@@ -488,35 +488,41 @@
         "diff_pair_width": 0.35,
         "line_style": 0,
         "microvia_diameter": 0.35,
-        "microvia_drill": 0.35,
+        "microvia_drill": 0.15,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.35,
+        "via_diameter": 0.4,
         "via_drill": 0.2,
         "wire_width": 6
       },
       {
+        "bus_width": 12,
         "clearance": 0.2,
+        "line_style": 0,
         "name": "Batt_pwr",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
-        "via_diameter": 0.5,
-        "via_drill": 0.3
-      },
-      {
-        "clearance": 0.2,
-        "name": "V_pwr",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
-        "via_diameter": 0.5,
-        "via_drill": 0.3
+        "track_width": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "line_style": 0,
+        "name": "V_pwr",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -524,7 +530,20 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Batt_pwr",
+        "pattern": "+BAT*"
+      },
+      {
+        "netclass": "V_pwr",
+        "pattern": "+*V*"
+      },
+      {
+        "netclass": "V_pwr",
+        "pattern": "GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
