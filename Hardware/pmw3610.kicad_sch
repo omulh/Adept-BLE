@@ -243,7 +243,7 @@
 				)
 			)
 			(symbol "PMW3610_1_1"
-				(pin power_in line
+				(pin power_out line
 					(at -13.97 8.89 0)
 					(length 2.54)
 					(name "VCP"
@@ -261,7 +261,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin power_out line
 					(at -13.97 6.35 0)
 					(length 2.54)
 					(name "CP"
@@ -279,7 +279,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin power_out line
 					(at -13.97 3.81 0)
 					(length 2.54)
 					(name "CN"
@@ -297,7 +297,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin unspecified line
 					(at -13.97 -1.27 0)
 					(length 2.54)
 					(name "+VCSEL"
@@ -315,7 +315,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin unspecified line
 					(at -13.97 -3.81 0)
 					(length 2.54)
 					(name "PASS_T"
@@ -333,7 +333,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin unspecified line
 					(at -13.97 -6.35 0)
 					(length 2.54)
 					(name "XYLASER"
@@ -351,7 +351,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin unspecified line
 					(at -13.97 -8.89 0)
 					(length 2.54)
 					(name "-VCSEL"
