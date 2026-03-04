@@ -3122,7 +3122,7 @@
 			)
 		)
 	)
-	(global_label "+BAT_SW"
+	(global_label "+BATT_SW"
 		(shape input)
 		(at 223.52 116.84 0)
 		(fields_autoplaced yes)
@@ -3134,7 +3134,7 @@
 		)
 		(uuid "1c283803-a009-4426-9576-f10a543db041")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.0323 116.84 0)
+			(at 235.9999 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3650,7 +3650,7 @@
 			)
 		)
 	)
-	(global_label "+BAT_SW"
+	(global_label "+BATT_SW"
 		(shape input)
 		(at 109.22 49.53 0)
 		(fields_autoplaced yes)
@@ -3662,7 +3662,7 @@
 		)
 		(uuid "eb5c8cbf-3a89-4d24-8f4d-f75b5bc39599")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.7323 49.53 0)
+			(at 121.6999 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4139,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b6afc6ec-c4a0-4fe9-ae6d-0d7d1fe03359")
+			(uuid "b6afc6ec-c4a0-4fe9-ae6d-0d7d1fe0335a")
 		)
 		(instances
 			(project ""
