@@ -130,7 +130,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric)")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.68 90)
+			(at -2.8 0 90)
 			(layer "F.SilkS")
 			(uuid "fcec8cb3-5ffa-4f1e-aab0-61244395d9e0")
 			(effects
@@ -363,7 +363,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric)")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 0 -1.68 90)
+			(at 0 1.6 90)
 			(layer "F.SilkS")
 			(uuid "4cd319ed-45f9-4535-875d-5288437f6901")
 			(effects
@@ -596,7 +596,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric)")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 -1.65 90)
+			(at 0 1.6 90)
 			(layer "F.SilkS")
 			(uuid "a858d6ce-e7ba-4b54-a1c4-daee2c579ecc")
 			(effects
@@ -829,7 +829,7 @@
 		(descr "SMD Ultra Subminiature Basic Switch")
 		(tags "switch")
 		(property "Reference" "SW4"
-			(at 0 4 270)
+			(at 0 -4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e3e54390-8033-487c-9842-5f73cba44f40")
@@ -1126,7 +1126,8 @@
 		(property "Reference" "J5"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "9bbafcea-a172-4d28-8d8d-3809d8c23d38")
+			(hide yes)
+			(uuid "1edae4c1-c671-44b5-b3a5-042c15b488b6")
 			(effects
 				(font
 					(size 1 1)
@@ -1138,7 +1139,7 @@
 			(at 0 17.62 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43bb6504-d805-46e7-8b02-7bd9328882a6")
+			(uuid "e6ab7c0e-3db5-4657-bfa2-1f51d03ef844")
 			(effects
 				(font
 					(size 1 1)
@@ -1150,7 +1151,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5563e2d-4d37-4925-8f58-34f111912614")
+			(uuid "05df8df5-b235-4c57-9bae-374872ff02c9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1162,7 +1163,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae5a3488-370f-4d50-a1cf-b032bde7ce42")
+			(uuid "f81ff121-81c9-432d-a5d8-1f65866e3cc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1523,7 +1524,7 @@
 		(descr "SMD Ultra Subminiature Basic Switch")
 		(tags "switch")
 		(property "Reference" "SW5"
-			(at 0 4 270)
+			(at 0 4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b4e08d31-07ed-4a2e-b146-ab8bede08f61")
@@ -1818,7 +1819,7 @@
 		(descr "SOT, 5 Pin")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U1"
-			(at 0 -2.4 0)
+			(at 0 2.5 0)
 			(layer "F.SilkS")
 			(uuid "d1ffb845-4a94-4a34-abca-586e7e73f97f")
 			(effects
@@ -2204,7 +2205,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric)")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 -1.68 90)
+			(at -2.8 0 90)
 			(layer "F.SilkS")
 			(uuid "7845e9ff-7a5a-4e71-b1bd-d5dd66aa6c52")
 			(effects
@@ -2437,7 +2438,7 @@
 		(descr "SMD Ultra Subminiature Basic Switch")
 		(tags "switch")
 		(property "Reference" "SW7"
-			(at 0 4 90)
+			(at 0 -4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "70ed467c-b372-4c3d-886e-85334501eb29")
@@ -3725,7 +3726,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric)")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.68 90)
+			(at 0 1.6 90)
 			(layer "F.SilkS")
 			(uuid "3197c081-ad6a-47e6-940d-095704e42878")
 			(effects
@@ -3958,7 +3959,7 @@
 		(descr "SMD Ultra Subminiature Basic Switch")
 		(tags "switch")
 		(property "Reference" "SW2"
-			(at 0 4 270)
+			(at 0 4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d2d263b9-ac81-4909-8049-7ce7f31918bc")
@@ -4255,6 +4256,7 @@
 		(property "Reference" "J4"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c53c6d0a-0ecb-412c-a132-de4202777aec")
 			(effects
 				(font
@@ -4419,7 +4421,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric)")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0 -1.68 90)
+			(at 0 1.55 90)
 			(layer "F.SilkS")
 			(uuid "930a888f-e0f5-418e-9fe2-c0d8adcf06ff")
 			(effects
@@ -4947,7 +4949,7 @@
 		(descr "SMD Ultra Subminiature Basic Switch")
 		(tags "switch")
 		(property "Reference" "SW3"
-			(at 0 4 270)
+			(at 0 -4 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3a61fa79-adb3-4832-9337-5c258f8e92a2")
@@ -5242,7 +5244,7 @@
 		(descr "Small-sized, side-operated, single pole single throw (SPST), push-on, SMD switch")
 		(tags "SMD SMT SPST EVQPUC")
 		(property "Reference" "SW8"
-			(at 0 -3.5 0)
+			(at 0 -3 0)
 			(layer "B.SilkS")
 			(uuid "50d7fd1e-3c29-49ef-b899-bdebc08039ec")
 			(effects
@@ -5574,6 +5576,7 @@
 			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "2643ddcc-0e02-4de2-b778-d5ae6876d347")
 			(effects
 				(font
@@ -5699,7 +5702,8 @@
 			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "d0dbe00e-03ee-489e-a12b-1c0e5cc9fc33")
+			(hide yes)
+			(uuid "75d0d098-a882-420f-9fe5-5f467c5ca11f")
 			(effects
 				(font
 					(size 1 1)
@@ -5713,7 +5717,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9bebb8ab-7c68-4d91-96f3-1a3bff913540")
+			(uuid "fa472500-b6e1-4ede-aea7-d3c706b47075")
 			(effects
 				(font
 					(size 1 1)
@@ -5727,7 +5731,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a6c3844e-124b-428a-8766-89781e3e4f96")
+			(uuid "973f7d3a-6549-441e-925d-fd7dafce9150")
 			(effects
 				(font
 					(size 1 1)
@@ -5741,7 +5745,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "eebd5392-1be9-44e8-8bc5-fb40c80526ff")
+			(uuid "b838bd2a-2ef0-4282-9bd3-decd02aef439")
 			(effects
 				(font
 					(size 1 1)
@@ -6238,6 +6242,7 @@
 			(at 0 2.5 90)
 			(unlocked yes)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a193616f-2be7-41b6-8727-25d52dc5cd64")
 			(effects
 				(font
@@ -7027,7 +7032,7 @@
 		(descr "side-entry, 2mm pitch, JST PH series connector")
 		(tags "connector JST PH horizontal")
 		(property "Reference" "J3"
-			(at 1 2.55 0)
+			(at -1.25 2.55 0)
 			(layer "B.SilkS")
 			(uuid "acf6341f-e79b-43f5-89b5-77e74aa1e389")
 			(effects
@@ -8896,14 +8901,6 @@
 		(layer "B.Cu")
 		(net "XIAO_RST")
 		(uuid "86a78888-9ba0-4cd4-899d-eea5f2e7f51a")
-	)
-	(segment
-		(start 140 61.25)
-		(end 139.875 61.375)
-		(width 0.3)
-		(layer "B.Cu")
-		(net "XIAO_RST")
-		(uuid "bca2ce9a-f13a-4291-abcb-c1fd519fd7b0")
 	)
 	(segment
 		(start 138.125 82.375)
